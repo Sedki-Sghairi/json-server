@@ -209,6 +209,13 @@
       "comment": "hjhgjhgjhgh",
       "date": "2020-12-23T06:29:10.156Z",
       "id": 20
+    },
+    {
+      "dishId": 1,
+      "author": "sedki",
+      "comment": "awesome!",
+      "date": "2021-01-15T12:03:38.619Z",
+      "id": 21
     }
   ],
   "promotions": [
@@ -337,6 +344,26 @@
       "contactType": "Tel.",
       "date": "2020-12-23T10:26:56.731Z",
       "id": 9
+    },
+    {
+      "name": "sedki ",
+      "tel": "",
+      "email": "",
+      "feedback": "",
+      "agree": false,
+      "contactType": "Tel.",
+      "date": "2021-01-15T11:43:10.676Z",
+      "id": 10
+    },
+    {
+      "name": "sedki Sghairi ",
+      "tel": "9345345",
+      "email": "sedkisghairi017@gmail.com",
+      "feedback": "great",
+      "agree": true,
+      "contactType": "Email",
+      "date": "2021-01-15T12:04:12.373Z",
+      "id": 11
     }
   ]
 }
